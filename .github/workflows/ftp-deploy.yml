@@ -18,4 +18,4 @@ jobs:
           server: ftpupload.net
           username: if0_35561360
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: public_html/cd1/
+          server-dir: /htdocs/firstcd/
