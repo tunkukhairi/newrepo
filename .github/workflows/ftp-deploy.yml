@@ -2,7 +2,7 @@ name: FTP Deploy
 on:
   push:
     branches:
-      - main # or main, depending on your default branch
+      - master # or main, depending on your default branch
 
 jobs:
   ftp-deploy:
